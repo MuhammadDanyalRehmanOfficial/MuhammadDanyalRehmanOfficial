@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuhammadDanyalRehmanOfficial
-- 👀 I’m interested in Coding.
+- 👀 I’m interested in Mobile App Dev, Web Dev, and AI/ML.
 - 🌱 I’m currently learning BS Computer Science.
 - 💞️ I’m looking to collaborate on GitHub and API.
 - 📫 How to reach me at whatsapp +923129588906.
